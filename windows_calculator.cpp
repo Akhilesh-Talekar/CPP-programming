@@ -3,6 +3,7 @@ simple_calculator -- addition , subtraction , multiplication , division.
 scintific_calculator -- square , square root , distance , time of free fall in gravity
 */
 
+// I want to edit your program for more efficiency
 #include <iostream>
 #include <cmath>
 // you have to watch video on different between "cmath & math.h"
